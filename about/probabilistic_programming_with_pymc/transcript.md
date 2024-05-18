@@ -26,7 +26,7 @@ Today's talk is Introduction to Probabilistic Programming with PyMC with Austin 
 
 So my goal today is to introduce the idea of both probabilistic programming and how it works in PyMC, kind of from a knowledge of python, a little bit of numpy, 
 up to an actually interesting application to give you an idea of what is probabilistic programming, why do we, at PyMC find it exciting.
-So about this talk as you can tell this talk is a jupiter notebook, the slide rendering, the code was difficult to see so i'm just going to scroll through the notebook.
+So about this talk as you can tell this talk is a jupyter notebook, the slide rendering, the code was difficult to see so i'm just going to scroll through the notebook.
 Apologies for that, it's available on the PyMC data umbrella sprint github repo at this link I think Oriol and I have both also shared links in the chat with access to this notebook, so please
 do load it up on your own, play with some of the examples, modify them for yourself.
 So, in terms of an outline where are we going to go for the next 40 minutes or so 45 minutes, we're going to
