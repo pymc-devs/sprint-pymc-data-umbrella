@@ -45,7 +45,7 @@ So i'm very interested in what drives the prices of lego sets.
 If you go on my website which is just austin rochford.com , i've written about this fair amount show how to analyze those
 using PyMC, so a real world application and provide some resources and next steps right and i think Reshama will ask
 maybe mean all to say what the next steps are with the sprint that we're enabling here but if you want to
-learn more about either bayesian statistics probabilistic programming or PyMC, i have some
+learn more about either bayesian statistics probabilistic programming or PyMC, I have some
 resources linked at the end as well.
 So, in the interest of time let's dive right in!
 So, i take two different perspectives on probabilistic programming-- the first is a little philosophical right, so people 
